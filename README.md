@@ -76,7 +76,7 @@ A planning-based AI system where NPCs pursue **high-level goals** by dynamically
 
 ---
 
-### 🔴 Machine Learning (ML-Agents) *(Optional / Advanced)*
+### 🔴 Machine Learning (ML-Agents) *(Advanced)*
 
 A reinforcement-learning-based AI trained through rewards and penalties rather than explicit rules.
 
